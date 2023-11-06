@@ -1,0 +1,22 @@
+{
+  "name": "react-pro",
+  "version": "1.0.0",
+  "description": "react pro from prakyath",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prakyathacharya/react-pro.git"
+  },
+  "author": "Prakyath",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prakyathacharya/react-pro/issues"
+  },
+  "homepage": "https://github.com/prakyathacharya/react-pro#readme",
+  "devDependencies": {
+    "parcel": "^2.10.2"
+  }
+}
